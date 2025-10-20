@@ -1,0 +1,23 @@
+# Core deep learning frameworks (choose one or both)
+tensorflow
+# torch
+# torchvision
+
+# Data manipulation and numerical operations
+numpy
+pandas
+
+# Plotting and visualization
+matplotlib
+seaborn
+
+# Machine learning utilities
+scikit-learn
+
+# Image processing
+opencv-python-headless
+Pillow
+
+# Jupyter environment
+jupyter
+notebook
